@@ -1,0 +1,27 @@
+# Rentals Kamloops
+
+> Self-managed rental property company in Kamloops, BC. Offering apartments, houses, and townhomes for rent across Kamloops neighbourhoods.
+
+Rentals Kamloops provides quality rental properties throughout Kamloops, BC. We are self-managed and focused on responsive, transparent property management. Tenants can browse listings, apply online, and submit maintenance requests through the website.
+
+## Services
+- Rental listings: Apartments, houses, townhomes across Kamloops
+- Online rental applications
+- Maintenance request portal for current tenants
+- Property management: Responsive, self-managed
+
+## Neighbourhoods Served
+Downtown, Aberdeen, Sahali, Valleyview, North Shore, Westsyde, and surrounding Kamloops areas.
+
+## Contact
+- Phone: (250) 828-0000
+- Email: info@rentalskamloops.ca
+- Website: https://rentalskamloops.ca
+- Location: Kamloops, BC
+
+## Pages
+- Home: https://rentalskamloops.ca
+- Listings: https://rentalskamloops.ca/listings
+- Apply: https://rentalskamloops.ca/apply
+- Maintenance: https://rentalskamloops.ca/maintenance
+- Contact: https://rentalskamloops.ca/contact
