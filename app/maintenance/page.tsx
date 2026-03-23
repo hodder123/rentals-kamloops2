@@ -32,7 +32,7 @@ export default function MaintenancePage() {
             {[
               {icon: Clock, title:'24-Hour Response', desc:'We respond to all requests within 24 hours on business days.'},
               {icon: Phone, title:'Emergency Line', desc:'Call (250) 828-0000 for urgent after-hours issues.'},
-              {icon: AlertTriangle, title:'Track Your Request', desc:'You'll receive an email confirmation with your request details.'},
+              {icon: AlertTriangle, title:'Track Your Request', desc:"You'll receive an email confirmation with your request details."},
             ].map(item => (
               <div key={item.title} className="bg-[#f8fafc] border border-[#e2e8f0] rounded-lg p-4">
                 <item.icon size={16} className="text-[#2563eb] mb-2" />
